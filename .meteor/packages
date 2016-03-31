@@ -21,3 +21,5 @@ standard-minifier-css
 standard-minifier-js
 react-meteor-data
 meteorhacks:kadira
+accounts-ui
+accounts-password
